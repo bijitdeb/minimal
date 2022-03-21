@@ -1,6 +1,20 @@
-title: Minimal theme
+title: <p align="center"> Bijit Deb </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/bijitdeb//">LinkedIn</a> |
+  <a href="https://github.com/bijitdeb">GitHub</a>
+  
+  <br>   
+  Close to 16 years of experience in data governance, data architecture, 
+  designing, modeling and managing complex, high performance, 
+  scalable IT solutions and manipulating data into information 
+  Data Warehouses (DW), Analytical Data Marts (DM) and Operational Data Store (ODS)
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
